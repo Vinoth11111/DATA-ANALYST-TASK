@@ -18,3 +18,17 @@ Fixed data types (e.g., age as int, date as datetime)
 Tools Used:
 Python (Pandas)
 Microsoft Excel
+
+TASK-2
+Key Insights
+
+Sales by Region/State: Identifies top-performing and underperforming markets to guide strategic focus.
+Sales Trend Over Time: Tracks monthly and yearly sales to detect seasonality and growth patterns.
+Product Performance: Analyzes sales across product categories and sub-categories, aiding inventory and marketing decisions.
+Customer Segments: Evaluates the contribution of different customer segments (Consumer, Corporate, Home Office) to overall revenue, helping target the right audience.
+Shipping Mode Impact: Examines how shipping modes affect delivery time and customer purchasing behavior, revealing areas for logistics optimization.
+
+
+Tools & Technologies:
+Python (Pandas, Matplotlib, Seaborn)
+Tableau.
