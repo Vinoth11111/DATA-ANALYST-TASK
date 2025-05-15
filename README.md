@@ -28,7 +28,22 @@ Product Performance: Analyzes sales across product categories and sub-categories
 Customer Segments: Evaluates the contribution of different customer segments (Consumer, Corporate, Home Office) to overall revenue, helping target the right audience.
 Shipping Mode Impact: Examines how shipping modes affect delivery time and customer purchasing behavior, revealing areas for logistics optimization.
 
+TASK-3
+Key SQL Tasks Performed
 
-Tools & Technologies:
-Python (Pandas, Matplotlib, Seaborn)
-Tableau.
+Data Selection & Filtering:
+Used SELECT, WHERE, ORDER BY, and GROUP BY to filter, sort, and group data for better analysis.
+Joins:
+Applied INNER JOIN to combine data from multiple tables for deeper insights.
+Subqueries:
+Used nested queries to perform complex filtering and calculations.
+Aggregate Functions:
+Implemented functions like SUM and AVG to calculate total sales, average order value, and other key metrics.
+Views Creation:
+Created reusable VIEWS for simplified and efficient data access.
+Query Optimization:
+Used INDEXES to speed up data retrieval and enhance performance.
+
+Tools Used
+SQL (PostgreSQL)
+
