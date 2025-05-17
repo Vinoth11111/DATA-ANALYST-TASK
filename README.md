@@ -59,9 +59,13 @@ Summary Cards displaying:
 Total Sales
 Total Profit
 Total Orders
+
+
 🎛️ Slicers & Filters for Interactivity
 View sales and profit by region, country, and product category
 Filter by sales channels, country, or region to identify top-performing areas
+
+
 📈 Time-Series Analysis
 Monthly trends of sales and profit over the past year
 Seasonal patterns identified in sales performance
