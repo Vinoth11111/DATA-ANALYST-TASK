@@ -44,6 +44,32 @@ Created reusable VIEWS for simplified and efficient data access.
 Query Optimization:
 Used INDEXES to speed up data retrieval and enhance performance.
 
+TASK-4
+Description
+
+This task focuses on creating interactive dashboards to explore sales and profit data visually. Using tools like Power BI / Tableau (specify which), the dashboard helps stakeholders quickly understand key business metrics and trends.
+
+Key Features
+
+📊 KPI Analysis
+Total Sales Revenue for the selected period
+Total Profit earned across all regions
+Average Profit Margin across all transactions
+Summary Cards displaying:
+Total Sales
+Total Profit
+Total Orders
+🎛️ Slicers & Filters for Interactivity
+View sales and profit by region, country, and product category
+Filter by sales channels, country, or region to identify top-performing areas
+📈 Time-Series Analysis
+Monthly trends of sales and profit over the past year
+Seasonal patterns identified in sales performance
+Tools Used
+
+Power BI / Tableau (choose one)
+Excel / CSV data source
+
 Tools Used
 SQL (PostgreSQL)
 
