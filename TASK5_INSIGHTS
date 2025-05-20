@@ -1,0 +1,29 @@
+* SHAPE OF THE DATASET - 705 ROWS AND 13 COLUMNS(SMALL DATASET)
+* DATASET IS CLEAN AND DOESNOT COUNTAIN ANY NULL VALUES AND DUPLICATED VALUES
+* FROM DESCRIBE()WE CAN SEE THAT FIRST QUATAIL RANGE OF DATA ARE
+Age	                  Avg_Daily_Usage_Hours	Sleep_Hours_Per_Night	Mental_Health_Score	Conflicts_Over_Social_Media	Addicted_Score
+19.000000	            4.100000	            6.000000	            5.000000	          2.000000	                   5.0000
+
+second quartile range around
+Age	       Avg_Daily_Usage_Hours	Sleep_Hours_Per_Night	Mental_Health_Score	Conflicts_Over_Social_Media	Addicted_Score
+21.000000	 4.800000              	6.900000	            6.000000	          3.000000	                  7.000000
+
+second quartile range around
+Age	       Avg_Daily_Usage_Hours	Sleep_Hours_Per_Night	Mental_Health_Score	Conflicts_Over_Social_Media	Addicted_Score
+22.000000  	5.800000	            7.700000	            7.000000	          4.000000	                    8.000000
+
+* GENDER COUNTS ARE 
+Gender
+Female    353
+Male      352  SO BOTH MALE AND FEMALE ARE EQUALLY DISTRIBUTED
+
+* USED PAIR PLOT TO FIND CORRECLATION BETWEEN EACH AND EVERY COLUMNS BETWEEN THEM.
+* MOST OF THE COLUMNS ARE POSITEVELY AND NEGATIVELY CORRELATED AMOUNG THEM
+
+
+* DF.CORR() IS USED TO FIND THE CORRELATION FOR NUMERICAL COLUMNS AND THE RESULT ARE IN BETWEEN +1 TO -1
+
+* HISTOGRAM ARE USED TO FIND THE DISTRIBUTION FOR COUNTIONOUES VARIABLE(AGE)
+* USED BOXPLOT TO FIND THE POSSIBLE OUTLAIRS IN THE AGE COLUMNMS IN THIS DATA SET NO OULAIRS IS FOUND
+
+* USED SCATTER PLOT ACROSS AGE AND Avg_Daily_Usage_Hours AND FOUND NEGATIVE CORRELATION EXISTS AMOUNG THEM.
