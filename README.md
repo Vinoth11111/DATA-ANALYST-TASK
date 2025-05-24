@@ -102,3 +102,29 @@ Provided a summary of overall findings to guide further analysis and decision-ma
 Tools Used
 
 Python (Pandas, Seaborn, Matplotlib)
+
+
+TASK-6
+Time-Based Sales Analysis (SQL)
+
+Description
+
+This task focuses on analyzing sales data over time using SQL queries. The goal is to extract monthly and yearly trends in revenue and order volume to support business planning and forecasting.
+
+Key SQL Operations
+
+Date Extraction:
+Used EXTRACT(MONTH FROM order_date) to group data by month.
+Grouping:
+Grouped sales data by year and month using GROUP BY.
+Revenue Calculation:
+Used SUM() to calculate total monthly revenue.
+Order Volume:
+Used COUNT(DISTINCT order_id) to calculate total number of unique orders.
+Sorting:
+Applied ORDER BY to sort results chronologically.
+Time Filtering:
+Limited results to specific time periods for focused analysis.
+Tools Used
+
+SQL (PostgreSQL)
