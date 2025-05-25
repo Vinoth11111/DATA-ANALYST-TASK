@@ -128,3 +128,21 @@ Limited results to specific time periods for focused analysis.
 Tools Used
 
 SQL (PostgreSQL)
+
+
+TASK-7
+Description
+
+This task demonstrates how to connect a SQLite database to Python, run SQL queries, and visualize the results using pandas and matplotlib. The goal is to analyze total quantity sold and revenue generated per product.
+
+Key Steps
+
+Connected to sales_data.db using sqlite3
+Ran a SQL query to calculate total quantity and revenue per product
+Loaded query results into a pandas DataFrame
+Displayed results using print()
+Plotted a bar chart of product revenue using matplotlib
+Tools Used
+
+Python (sqlite3, pandas, matplotlib)
+Postgresql Database
