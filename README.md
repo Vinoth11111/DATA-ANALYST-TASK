@@ -146,3 +146,28 @@ Tools Used
 
 Python (sqlite3, pandas, matplotlib)
 Postgresql Database
+
+TASK-8
+
+Description
+
+This task focuses on building a visual sales dashboard to uncover trends, regional performance, and product category insights. Data was formatted and visualized to support interactive business analysis.
+
+Key Steps
+
+Converted Order Date to Month-Year format for clear time-based visuals
+Created 3 key visuals:
+Line Chart: Monthly Sales Trend
+Bar Chart: Sales by Region
+Donut Chart: Sales by Category
+Added interactive slicer/filter for Region and Category
+Applied color highlights to showcase top-performing areas
+Key Insights
+
+West region recorded the highest sales in Q3
+Technology category led overall revenue contribution
+Sales peaked in November and December, indicating seasonal demand
+Tools Used
+
+Power BI / Tableau (specify which one)
+Excel / CSV as data source
